@@ -30,7 +30,7 @@ header img{
 
 /* MAIN */
 main > div:first-child{
-    background-image: url(../images/banner.jpg);
+    background-image: url(images/banner.jpg);
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
